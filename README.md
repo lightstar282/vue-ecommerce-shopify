@@ -58,13 +58,13 @@ This is an example of how to list things you need to use the software and how to
 Clone the project
 
 ```sh
-  git clone https://github.com/poljudy/shopify_ecommerce_vue.git
+  git clone https://github.com/lightstar282/vue-ecommerce-shopify.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd VueEcommerce
+  cd vue-ecommerce-shopify
 ```
 
 Install dependencies
